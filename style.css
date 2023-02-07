@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "fantasy";
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .4em;
+    background: linear-gradient(to right, blue, purple);
+}
+
+h3{
+    font-size: 1rem;
+    max-width: 75%;
+    display: inline-block;
+}
+
